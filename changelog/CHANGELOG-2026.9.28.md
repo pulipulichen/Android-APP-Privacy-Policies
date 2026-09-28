@@ -2,4 +2,5 @@
 
 ### Documentation
 - Add the Share to Clip privacy policy.
+- Add the Image Quick Cutout privacy policy.
 - Add a project skill for updating the changelog, committing changes, and pushing to GitHub.
