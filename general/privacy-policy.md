@@ -1,68 +1,60 @@
-# Privacy Policy for [App Name]
+# Privacy Policy for Android Applications by Pulipuli Chen
 
-**Effective date: [Month Day, Year]**
+**Effective date: October 18, 2026**
 
-[App Name] (the “App”) is an Android application developed by [Developer / Organization Name]. This privacy policy explains how the App handles information. It should be completed and reviewed to accurately describe the App's current features, permissions, SDKs and data practices before publication.
+This privacy policy applies to Android applications developed and published by Pulipuli Chen ("the developer"). Each application has different features, so the information it handles depends on the features you choose to use. An application does not necessarily handle every type of information described below.
 
-## Information the App handles
+## Information handled by an application
 
-Depending on the features you use, the App may access or handle the following information:
+Depending on its features and your choices, an application may access or handle:
 
-- [List information entered by the user or accessed from the device, such as photos, files, location, contacts, or shared content.]
-- [List account, settings, diagnostic, usage, or other information handled by the App, if applicable.]
-- [If the App does not handle a category, remove it rather than implying that it does.]
+- Content you provide, enter, select, create, or share with the application, such as text, links, images, or files.
+- Information needed to provide a feature, such as account or connection details, app settings, or records of actions performed in the app.
+- Device content or capabilities that you choose to grant access to, such as selected photos, files, or other content made available through Android system features or permissions.
+- Technical, diagnostic, or usage information, but only where the application includes functionality or a third-party service that processes that information.
+
+The specific information handled is limited to what is relevant to the features included in the application and the access you grant.
 
 ## How information is used
 
-The App uses information for the following purposes:
-
-- [Describe the App's core features and why each type of information is needed.]
-- [Describe any optional purposes, such as diagnostics, analytics, or personalization, if applicable.]
+Information is used to provide and operate the application's features, respond to actions you take, save your preferences or work where applicable, and maintain or troubleshoot the application. If an application includes optional analytics, diagnostics, personalization, or similar functionality, the relevant information may also be used for that purpose.
 
 ## Storage and retention
 
-[Explain what information is stored on the device or on servers, where it is stored, how long it is retained, and how users can delete it. If information is not stored, state that accurately.]
+Information may be stored locally on your device, on a server you choose to use, or by a service supporting an application feature. The location and retention period depend on the feature and service involved. Locally stored information may generally be removed by using the application's available controls or uninstalling the application, subject to Android behavior and any copies you have exported or shared. For information stored by a server or another service, deletion may need to be requested from or performed through that service.
 
-## Sharing and disclosures
+## Sharing and disclosure
 
-[Describe whether information is shared with the developer, service providers, other users, or third parties, and the purpose of each disclosure. Include user-initiated sharing and explain that the receiving app or service has its own privacy practices, if applicable. If the App does not share information, state that accurately.]
+An application does not share information merely because this policy lists a possible category. Information may be disclosed when necessary to provide a feature you request, including when you choose to send content to another app, connect to a server, or use a third-party service. The recipient's own privacy practices apply to information it receives. The developer does not sell personal information.
 
 ## Network transfers and third-party services
 
-[Describe information sent over the network, the recipient and purpose, and any relevant safeguards. List third-party SDKs or services that collect or process information on the App's behalf. If the App makes no network transfers and uses no such services, say so only after verifying the current release.]
+An application may transmit information over the network when a feature requires it, for example to connect to a server you configure or to use an integrated service. The recipient and information involved depend on the feature and service. Some applications may operate entirely on your device and make no network transfers. Where a service is used, that service may process information under its own terms and privacy policy.
 
-## Permissions
+## Android permissions and system access
 
-The App may request the following Android permissions or system access:
-
-- [Permission or access] — [why it is needed and when it is used].
-
-[Remove this list or state that no sensitive permissions are requested if verified. Explain any relevant Android system-picker or user-granted access.]
+An application may request Android permissions or use system-provided access when required for a feature. You can review and manage permissions in Android settings. Android features such as the system photo picker or sharing interface may grant access only to content you select. Permission names and access requirements vary by application and Android version.
 
 ## Children's privacy
 
-[Describe whether the App is directed to children or knowingly collects children's personal information, and the steps taken to comply with applicable laws. Do not use a generic statement without checking the App's target audience and distribution.]
+The applications covered by this policy are not collectively represented as being directed to children. The intended audience and applicable requirements may differ by application. An application directed to children, or one that knowingly handles children's personal information, must be operated in accordance with applicable child privacy requirements.
 
 ## Security
 
-[Describe reasonable safeguards relevant to the App and its services. Do not promise absolute security.]
+Reasonable safeguards are used where appropriate to protect information handled by an application and its services. No method of storage or transmission is completely secure. When you choose to connect to a server or share information with another service, the security of that recipient is also relevant.
 
 ## Changes to this policy
 
-This policy may be updated when the App's features or data practices change. The effective date above will be revised when material changes are made.
+This policy may be updated when applications, features, or data practices change. The effective date above will be updated when material changes are made. Continued use of an application after an update is subject to the updated policy, to the extent permitted by applicable law.
 
 ## Contact
 
-For privacy questions, contact:
+For privacy questions, contact the developer:
 
-[Developer / Organization Name]
+Pulipuli Chen
 
-[Privacy contact email or other public contact method]
+Email: pulipuli.chen@gmail.com
 
 ---
 
-## Publishing checklist
-
-Before publishing this policy, replace every bracketed instruction, remove sections that do not apply, and verify that the final text matches the released App, its Android permissions, third-party SDKs, backend services, Google Play Data safety disclosures, and applicable legal requirements. Publish the completed policy at a stable, publicly accessible URL and keep this source file synchronized with it.
-
-中文摘要範本：[應用程式名稱] 會依其功能處理[列出資料類型及用途]。資料可能儲存於[裝置／伺服器]，並依[保存期限及刪除方式]處理；如有第三方服務或資料分享，請在此說明。發布前請確認本政策與實際應用程式、權限、SDK、伺服器及 Google Play「資料安全性」資訊一致，並填妥所有方括號內容。
+中文摘要：本政策適用於 Pulipuli Chen 開發的 Android 應用程式。各應用程式的功能不同，僅會依實際功能及使用者選擇處理所需資訊；本政策列出的資訊類型不代表每個應用程式都會蒐集或使用。資訊可能儲存於裝置、使用者選擇的伺服器或功能所需的第三方服務；如使用者主動分享內容或連線至特定服務，接收方的隱私規範亦適用。
